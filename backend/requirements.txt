@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-Mail
+PyMongo
+python-dotenv
+langchain-mistralai  # For integrating Mistral with LangChain
+requests
