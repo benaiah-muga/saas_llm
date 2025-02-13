@@ -5,3 +5,6 @@ PyMongo
 python-dotenv
 langchain-mistralai  # For integrating Mistral with LangChain
 requests
+pinecone
+langchain_community
+bs4
